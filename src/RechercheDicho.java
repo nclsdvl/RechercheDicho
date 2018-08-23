@@ -26,6 +26,7 @@ public class RechercheDicho {
 
             if (x<TabEntiers[im]){
                 ifin = im;
+                
             }else if (x > TabEntiers[im]){
                 ideb = im;
             }else {
